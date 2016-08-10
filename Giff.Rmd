@@ -237,7 +237,7 @@ movie.name="giffy_take3.gif",ani.width = 425, ani.height = 425)
 
 ```
 
-<img src = "C:\\Users\\Stuart\\Documents\\R\\Blog_Posts\\GIFs\\giffy_take3.gif", height = "425", width = "425"/>
+<img src = "images/giffy_take3.gif", height = "425", width = "425"/>
 
 > Note that the font-face was selected from [Google Fonts][3] and design is attributed to [Cadson Demak][4]
 
@@ -246,7 +246,3 @@ movie.name="giffy_take3.gif",ani.width = 425, ani.height = 425)
 [3]: https://www.google.com/fonts/
 [4]: http://cadsondemak.com/
 
-```{r, renderNotes, echo = F, eval = F}
-#rmarkdown::render(Giff.Rmd, output_format = 'all', clean = F)
-?render()
-```
