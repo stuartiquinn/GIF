@@ -229,7 +229,9 @@ movie.name="giffy_take3.gif",ani.width = 425, ani.height = 425)
 ## [1] TRUE
 ```
 
-<img src = "GIF/images/giffy_take3.gif", height = "425", width = "425"/>
+<img src="images/giffy_take3.gif", height = "425", width = "425"/>
+
+
 
 > Note that the font-face was selected from [Google Fonts][3] and design is attributed to [Cadson Demak][4]
 
